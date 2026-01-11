@@ -1,20 +1,5 @@
-# operator=input("Operator:")
-# num1=float(input("Enter Num1:"))
-# num2=float(input("Enter Num2:"))
-# result=0
-# if operator=="+":
-#     result=num1+num2
-# elif operator=="-":
-#     result=num1-num2
-# elif operator=='*':
-#     result=num1*num2
-# elif operator=="/":
-#     result=num1/num2
-# elif operator=="**":
-#     result=pow(num1,num2)
-# else:
-#     print("INVALID OPERATOR!!!")
-# print(f"The result for given operator {operator} is {result}.")
+# Here is the practise page where i learnt python.
+# Uncommand and run for outputs
 
 #latest conditional statements
 
@@ -644,4 +629,5 @@
 #         return response.json()
 # pokemon_name = input("Enter Pokemon Name: ")
 # poke_info=display_pokemon(pokemon_name)
+
 # print(f"Name: {poke_info["name"]}\nHeight: {poke_info["height"]}\nWeight: {poke_info["weight"]}")
